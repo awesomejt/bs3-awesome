@@ -20,4 +20,4 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
-  - 'bs3-awesome/global-styling'
+  - 'awesome/global-styling'
